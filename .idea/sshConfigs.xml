@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="region-11.autodl.com" id="42501d7c-939a-4c08-8084-e1839086bd36" port="29588" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-4.autodl.com" id="411ffade-906e-4fbb-964e-7cebe89bcce6" port="51264" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-4.autodl.com" id="d95f0ec6-4dcc-438a-a05e-cff67253e992" port="36321" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-41.autodl.com" id="0f57579a-92aa-4ad9-b594-bb6f04320377" port="31670" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-41.autodl.com" id="0b2686a2-8d2a-4b53-8ec1-54240a3b6797" port="13078" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-41.autodl.com" id="d4b1a34d-e654-47b6-ac2f-26a5692640e4" port="15054" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-41.autodl.com" id="6d347211-1c29-4222-ad04-a16ed387419d" port="26842" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="43c2de12-2819-48b6-a978-e64d4a9c5929" port="40278" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-41.autodl.com" id="5d6a7528-31fa-4c1a-805b-1098f4bfbb16" port="31379" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="c18a27ad-af3b-42aa-9c1b-d93e09223d14" port="50797" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="df003110-a597-43d0-8b66-1b5b4b47f251" port="52879" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="079ef87b-2b9f-4722-9747-97aae6afecf7" port="47877" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="region-3.autodl.com" id="43870d84-0bc4-43b8-aed4-806a35d32309" port="53640" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

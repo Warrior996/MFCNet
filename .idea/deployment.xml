@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="3080Ti_017NANJING">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BB_010_2080Ti">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BB_011_2080Ti">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BB_017_2080Ti">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BB_021_V100_32G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pycode/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BB_031_V100_32G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BEIJING_011_A4000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="NA_106_A40_48G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="NA_107_A100_80G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="NA_108_A100_80G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="NA_15_A40_48G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="NA_63_A40_48G">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-nas/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenkai@192.168.1.12:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="chenkai@43720u29w6.zicp.vip:22363 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pycode/medical-image-classification/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="featurize@ssh.featurize.cn:30655">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangchuan@106.52.85.31:32144 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pycode/medical-image-classification/Goodidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

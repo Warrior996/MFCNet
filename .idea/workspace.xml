@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c74d994f-9fd2-4897-8367-756f6cc39a1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29ewAtT3SZ41VWygRkM64Y7ler9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Paper/BIBM" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\medical-image-classification\Goodidea\script" />
+      <recent name="D:\Github\medical-image-classification\Goodidea\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\medical-image-classification\Goodidea\results\best_model_path" />
+      <recent name="D:\Github\medical-image-classification\Goodidea\labels" />
+      <recent name="D:\Github\medical-image-classification\Goodidea\model" />
+      <recent name="D:\Github\medical-image-classification\Goodidea\script" />
+      <recent name="D:\Github\medical-image-classification\Goodidea\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.build_local_model">
+    <configuration name="build_global_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Goodidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/build_global_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_local_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Goodidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/build_local_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convnext (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Goodidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/miniconda3/envs/chen/Lib/site-packages/timm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/miniconda3/envs/chen/Lib/site-packages/timm/models/convnext.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convnext" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Goodidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/convnext.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convnext1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Goodidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/convnext1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.build_local_model" />
+        <item itemvalue="Python.build_global_model" />
+        <item itemvalue="Python.convnext" />
+        <item itemvalue="Python.convnext (1)" />
+        <item itemvalue="Python.convnext1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c74d994f-9fd2-4897-8367-756f6cc39a1b" name="Default Changelist" comment="" />
+      <created>1653486718390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653486718390</updated>
+      <workItem from="1653486719724" duration="787000" />
+      <workItem from="1653747493864" duration="930000" />
+      <workItem from="1655687618461" duration="5009000" />
+      <workItem from="1655804413370" duration="68000" />
+      <workItem from="1657535466401" duration="317000" />
+      <workItem from="1657842946631" duration="1267000" />
+      <workItem from="1657844785862" duration="1413000" />
+      <workItem from="1657846224445" duration="306000" />
+      <workItem from="1657850313978" duration="89000" />
+      <workItem from="1657892734615" duration="132000" />
+      <workItem from="1657955704544" duration="744000" />
+      <workItem from="1658047670434" duration="4081000" />
+      <workItem from="1658278930109" duration="4795000" />
+      <workItem from="1658390050290" duration="2497000" />
+      <workItem from="1658452651779" duration="977000" />
+      <workItem from="1658496833282" duration="934000" />
+      <workItem from="1658535703610" duration="16822000" />
+      <workItem from="1658711507423" duration="2508000" />
+      <workItem from="1658720012860" duration="5717000" />
+      <workItem from="1658799415923" duration="17641000" />
+      <workItem from="1658885369687" duration="23116000" />
+      <workItem from="1659060960016" duration="10008000" />
+      <workItem from="1659102303911" duration="104000" />
+      <workItem from="1659167219603" duration="7769000" />
+      <workItem from="1659237129864" duration="16003000" />
+      <workItem from="1659317341901" duration="13601000" />
+      <workItem from="1659400769727" duration="12821000" />
+      <workItem from="1659444784039" duration="991000" />
+      <workItem from="1659491693227" duration="17974000" />
+      <workItem from="1659573954627" duration="20623000" />
+      <workItem from="1659874116794" duration="2707000" />
+      <workItem from="1659925822708" duration="10965000" />
+      <workItem from="1660027930664" duration="1701000" />
+      <workItem from="1660284081036" duration="10424000" />
+      <workItem from="1660353065292" duration="2202000" />
+      <workItem from="1660527918078" duration="10934000" />
+      <workItem from="1660615322043" duration="5282000" />
+      <workItem from="1660702118501" duration="4982000" />
+      <workItem from="1660869056714" duration="1799000" />
+      <workItem from="1660896817139" duration="1568000" />
+      <workItem from="1660902903476" duration="1129000" />
+      <workItem from="1661043263258" duration="399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="350" width="1290" height="792" key="#Deployment" timestamp="1660720283344">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="404" y="350" width="1290" height="792" key="#Deployment/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659703223060" />
+    <state x="361" y="111" key="#Deployment/0.40.1536.824@0.40.1536.824" timestamp="1653747552312" />
+    <state x="602" y="161" key="#Deployment/2560.171.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1655804441570" />
+    <state x="404" y="350" key="#Deployment/2560.238.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1660720283344" />
+    <state x="818" y="363" key="#Options" timestamp="1657846428641">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="818" y="363" key="#Options/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1657846428641" />
+    <state x="586" y="148" key="#SSH_Configurations" timestamp="1660720271380">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="586" y="148" key="#SSH_Configurations/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659703209659" />
+    <state x="586" y="148" key="#SSH_Configurations/2560.171.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1655707379285" />
+    <state x="586" y="148" key="#SSH_Configurations/2560.238.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1660720271380" />
+    <state x="943" y="519" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1659703298161">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="943" y="519" key="#com.intellij.fileTypes.FileTypeChooser/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659703298161" />
+    <state x="790" y="257" key="FileChooserDialogImpl" timestamp="1660902921783">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="790" y="257" key="FileChooserDialogImpl/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659402852957" />
+    <state x="790" y="257" key="FileChooserDialogImpl/2560.171.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1655804479308" />
+    <state x="790" y="257" key="FileChooserDialogImpl/2560.238.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1660902921783" />
+    <state width="2507" height="548" key="GridCell.Tab.0.bottom" timestamp="1659536564841">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="548" key="GridCell.Tab.0.bottom/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659536564841" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1653487507804" />
+    <state width="2507" height="548" key="GridCell.Tab.0.center" timestamp="1659536564841">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="548" key="GridCell.Tab.0.center/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659536564841" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1653487507803" />
+    <state width="2507" height="548" key="GridCell.Tab.0.left" timestamp="1659536564841">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="548" key="GridCell.Tab.0.left/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659536564841" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1653487507803" />
+    <state width="2507" height="548" key="GridCell.Tab.0.right" timestamp="1659536564841">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="548" key="GridCell.Tab.0.right/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659536564841" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1653487507803" />
+    <state width="2507" height="473" key="GridCell.Tab.1.bottom" timestamp="1657846209663">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="473" key="GridCell.Tab.1.bottom/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1657846209663" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.40.1536.824@0.40.1536.824" timestamp="1653487507804" />
+    <state width="2507" height="473" key="GridCell.Tab.1.center" timestamp="1657846209663">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="473" key="GridCell.Tab.1.center/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1657846209663" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.40.1536.824@0.40.1536.824" timestamp="1653487507804" />
+    <state width="2507" height="473" key="GridCell.Tab.1.left" timestamp="1657846209663">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="473" key="GridCell.Tab.1.left/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1657846209663" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.40.1536.824@0.40.1536.824" timestamp="1653487507804" />
+    <state width="2507" height="473" key="GridCell.Tab.1.right" timestamp="1657846209663">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="473" key="GridCell.Tab.1.right/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1657846209663" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1653487507804" />
+    <state x="476" y="421" key="SettingsEditor" timestamp="1658805649285">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="476" y="421" key="SettingsEditor/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1658805649285" />
+    <state x="1078" y="211" width="757" height="610" key="ftp.server.browser" timestamp="1660720281670">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1078" y="211" width="757" height="610" key="ftp.server.browser/-1920.252.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1659703221916" />
+    <state x="647" y="183" width="402" height="538" key="ftp.server.browser/0.40.1536.824@0.40.1536.824" timestamp="1653747550988" />
+    <state x="1078" y="283" key="ftp.server.browser/2560.171.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1655707407518" />
+    <state x="1078" y="211" key="ftp.server.browser/2560.238.1536.832/0.40.2560.1400@0.40.2560.1400" timestamp="1660720281670" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Goodidea$res2net_v1.coverage" NAME="res2net_v1 Coverage Results" MODIFIED="1658712937302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$main.coverage" NAME="main Coverage Results" MODIFIED="1657845923173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Goodidea$densenet_acmix.coverage" NAME="densenet_acmix Coverage Results" MODIFIED="1659102362823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1657846502266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
+    <SUITE FILE_PATH="coverage/Goodidea$resnet.coverage" NAME="resnet Coverage Results" MODIFIED="1659079236241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$resnet_acmix.coverage" NAME="resnet_acmix Coverage Results" MODIFIED="1659079163103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$convnext__1_.coverage" NAME="convnext (1) Coverage Results" MODIFIED="1659340047960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/miniconda3/envs/chen/Lib/site-packages/timm/models" />
+    <SUITE FILE_PATH="coverage/Goodidea$resnet_acmix3.coverage" NAME="resnet_acmix3 Coverage Results" MODIFIED="1659100815017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$densenet_acmix3.coverage" NAME="densenet_acmix3 Coverage Results" MODIFIED="1659102345508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$densenet.coverage" NAME="densenet Coverage Results" MODIFIED="1659102311557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$build_local_model.coverage" NAME="build_local_model Coverage Results" MODIFIED="1659531111516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$convnext1.coverage" NAME="convnext1 Coverage Results" MODIFIED="1659339808294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$convnext.coverage" NAME="convnext Coverage Results" MODIFIED="1659341019704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Goodidea$build_global_model.coverage" NAME="build_global_model Coverage Results" MODIFIED="1659530214844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+  </component>
+</project>

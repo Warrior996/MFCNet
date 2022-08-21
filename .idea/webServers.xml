@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28ebfdd9-afe5-4d95-8798-908c4331a0f2" name="3080Ti_017NANJING">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-11.autodl.com" port="29588" sshConfigId="42501d7c-939a-4c08-8084-e1839086bd36" sshConfig="root@region-11.autodl.com:29588 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ee206a51-0893-478e-b5e5-7bf4ff265a34" name="BEIJING_011_A4000">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-4.autodl.com" port="51264" sshConfigId="411ffade-906e-4fbb-964e-7cebe89bcce6" sshConfig="root@region-4.autodl.com:51264 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c5840839-dc6f-4652-b625-bc09f2e99d30" name="BB_011_2080Ti">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-41.autodl.com" port="31670" sshConfigId="0f57579a-92aa-4ad9-b594-bb6f04320377" sshConfig="root@region-41.autodl.com:31670 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b9bdef4-e77d-47fd-b674-3cd96d07dcc0" name="BB_017_2080Ti">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-41.autodl.com" port="13078" sshConfigId="0b2686a2-8d2a-4b53-8ec1-54240a3b6797" sshConfig="root@region-41.autodl.com:13078 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9ee30463-97ed-4d8c-8bdb-017e08edb865" name="BB_021_V100_32G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-41.autodl.com" port="15054" sshConfigId="d4b1a34d-e654-47b6-ac2f-26a5692640e4" sshConfig="root@region-41.autodl.com:15054 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a84cfae-9091-4fb3-be43-fd7f421c808a" name="BB_031_V100_32G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-41.autodl.com" port="26842" sshConfigId="6d347211-1c29-4222-ad04-a16ed387419d" sshConfig="root@region-41.autodl.com:26842 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="12904bbd-5599-4d6c-91b0-01cce648a1a1" name="NA_106_A40_48G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-3.autodl.com" port="40278" sshConfigId="43c2de12-2819-48b6-a978-e64d4a9c5929" sshConfig="root@region-3.autodl.com:40278 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="95550c40-2706-495d-a5e8-126b7fdf5848" name="BB_010_2080Ti">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-41.autodl.com" port="31379" sshConfigId="5d6a7528-31fa-4c1a-805b-1098f4bfbb16" sshConfig="root@region-41.autodl.com:31379 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="158fa4e1-06cd-4a9d-b7cf-a2e07c9eace1" name="NA_107_A100_80G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-3.autodl.com" port="50797" sshConfigId="c18a27ad-af3b-42aa-9c1b-d93e09223d14" sshConfig="root@region-3.autodl.com:50797 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f33b771-0d9f-481b-857a-ef7a110c582a" name="NA_108_A100_80G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-3.autodl.com" port="52879" sshConfigId="df003110-a597-43d0-8b66-1b5b4b47f251" sshConfig="root@region-3.autodl.com:52879 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bb557ac3-23f6-4831-883e-5aaf6ca2f8de" name="NA_15_A40_48G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-3.autodl.com" port="47877" sshConfigId="079ef87b-2b9f-4722-9747-97aae6afecf7" sshConfig="root@region-3.autodl.com:47877 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e53ff05-62fb-4f73-943a-e92281e96a7d" name="NA_63_A40_48G">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-3.autodl.com" port="53640" sshConfigId="43870d84-0bc4-43b8-aed4-806a35d32309" sshConfig="root@region-3.autodl.com:53640 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
